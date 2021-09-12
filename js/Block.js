@@ -30,7 +30,7 @@ class Block{
           
           push();
           
-          //this.visiblity = 255;
+          this.visiblity = 255;
           this.visiblity = this.visiblity - 5;
           //this.visiblity = this.x;
           //this.visiblity = this.body.position.x;
